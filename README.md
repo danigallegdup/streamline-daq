@@ -1,6 +1,6 @@
 # Streamline-DAQ: Scalable Data Acquisition and Monitoring System
 
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](./docs/architecture-diagram.png)
 
 ## Overview
 

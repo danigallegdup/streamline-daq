@@ -1,0 +1,27 @@
+# Core Python libraries for data processing
+pandas==1.5.3
+numpy==1.24.2
+
+# Distributed systems and message brokering
+kafka-python==2.0.2
+
+# Database connectors
+psycopg2==2.9.6   # PostgreSQL
+pymongo==4.3.3    # MongoDB
+
+# Monitoring and visualization
+grafanalib==0.6.0
+
+# Web framework for APIs or dashboards
+fastapi==0.95.2
+uvicorn==0.22.0
+
+# Docker and deployment
+docker==6.1.2
+
+# Development tools
+pytest==7.4.0
+flake8==6.0.0
+
+# Security and environment handling
+python-dotenv==1.0.0
