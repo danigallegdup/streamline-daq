@@ -6,6 +6,15 @@
 
 **Streamline-DAQ** is a distributed system designed for real-time data acquisition, processing, and monitoring. It enables efficient ingestion and analysis of high-frequency data streams from multiple sources, making it ideal for applications in scientific experiments, IoT systems, and high-performance environments. This was created to expand my project demonstrates expertise in distributed systems, real-time data processing, and monitoring for scalable, fault-tolerant operations.
 
+## Integration with CERN Open Data
+
+The project integrates ATLAS Top Tagging Open Data from CERN to demonstrate its capabilities in handling high-energy physics datasets. Features include:
+
+- Real-time ingestion using Apache Kafka.
+- Preprocessing and feature engineering for scientific analysis.
+- Scalable storage with PostgreSQL and MongoDB.
+- Monitoring of data ingestion rates and tagging accuracy in Grafana.
+
 ## Features
 
 - **Real-Time Data Acquisition**: Simulates high-frequency data sources using `Apache Kafka` for distributed message brokering.
