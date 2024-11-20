@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Streamline-DAQ** is a distributed system designed for real-time data acquisition, processing, and monitoring. It enables efficient ingestion and analysis of high-frequency data streams from multiple sources, making it ideal for applications in scientific experiments, IoT systems, and high-performance environments. The project demonstrates expertise in distributed systems, real-time data processing, and monitoring for scalable, fault-tolerant operations.
+**Streamline-DAQ** is a distributed system designed for real-time data acquisition, processing, and monitoring. It enables efficient ingestion and analysis of high-frequency data streams from multiple sources, making it ideal for applications in scientific experiments, IoT systems, and high-performance environments. This was created to expand my expertise in distributed systems, real-time data processing, and monitoring for scalable, fault-tolerant operations.
 
 ## Features
 
