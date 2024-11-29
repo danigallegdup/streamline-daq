@@ -22,15 +22,6 @@ secrets.json
 *.sqlite3
 *.db
 
-# Ignore all SQL files by default
-*.sql
-
-# Track specific SQL scripts
-!src/sql/create_tables.sql
-!src/sql/insert_data.sql
-!src/sql/query_data.sql
-!src/sql/drop_tables.sql
-
 # Ignore SQL dumps and large files
 *.dump.sql
 *.sql.gz
