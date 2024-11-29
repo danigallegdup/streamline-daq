@@ -22,6 +22,10 @@ secrets.json
 *.sqlite3
 *.db
 
+# Ignore the ATLAS-top-tagging-open-data-master folder
+data/raw/ATLAS-top-tagging-open-data-master/
+
+
 # Ignore SQL dumps and large files
 *.dump.sql
 *.sql.gz
