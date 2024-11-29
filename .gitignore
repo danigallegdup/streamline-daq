@@ -21,7 +21,20 @@ secrets.json
 *.log
 *.sqlite3
 *.db
+
+# Ignore all SQL files by default
 *.sql
+
+# But track schema and essential SQL scripts
+!sql/create_tables.sql
+!sql/insert_data.sql
+!sql/query_data.sql
+!sql/drop_tables.sql
+
+# Ignore SQL dumps and large files
+*.dump.sql
+*.sql.gz
+
 
 # Operating System files
 .DS_Store
