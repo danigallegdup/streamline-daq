@@ -25,11 +25,11 @@ secrets.json
 # Ignore all SQL files by default
 *.sql
 
-# But track schema and essential SQL scripts
-!sql/create_tables.sql
-!sql/insert_data.sql
-!sql/query_data.sql
-!sql/drop_tables.sql
+# Track specific SQL scripts
+!src/sql/create_tables.sql
+!src/sql/insert_data.sql
+!src/sql/query_data.sql
+!src/sql/drop_tables.sql
 
 # Ignore SQL dumps and large files
 *.dump.sql
